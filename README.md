@@ -1,4 +1,4 @@
-
+![MasterHead](https://www.assignmentexpert.com/blog/wp-content/uploads/2019/10/hardest-programming-language.png)
 <h1 align="center">Hi 👋, I'm Arpita Agrahari</h1>
 <h3 align="center">"Arpita's Software Solutions: Building the Future One Line of Code at a Time"</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
