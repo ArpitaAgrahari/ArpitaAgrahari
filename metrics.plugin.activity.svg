@@ -261,22 +261,6 @@
                                 </div>
                             </section>
                         </div>
-                        <!-- Activity 6 -->
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <!-- Fork icon -->
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd"
-                                            d="M5 3.25a2.25 2.25 0 113 0v3.5a3.5 3.5 0 003.5 3.5h1.25a.75.75 0 010 1.5H11.5a5 5 0 01-5-5V3.25zM5.5 2.25a.75.75 0 101.5 0 .75.75 0 00-1.5 0zM11 10.75a.75.75 0 100-1.5.75.75 0 000 1.5z" />
-                                    </svg>
-                                    <div class="content">
-                                        Forked and contributed to
-                                        <span class="repo">ArpitaAgrahari/master-web-development</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
